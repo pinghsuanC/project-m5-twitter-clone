@@ -27,7 +27,7 @@ const formatTweetResponse = tweets => {
     acc[tweet.id] = { ...tweet };
 
     // Clients don't need to know about this.
-    delete acc[tweet.id].sortedTimestamp;
+    delete acc[tweet.id].sortedTimestamp;     // problem: id is double
 
     return acc;
   }, {});

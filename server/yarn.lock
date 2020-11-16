@@ -70,6 +70,11 @@ array-flatten@1.1.1:
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
+babelparser@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/babelparser/-/babelparser-0.1.1.tgz#8b66c164c05656e3b7e8b485b7db86162534bc21"
+  integrity sha1-i2bBZMBWVuO36LSFt9uGFiU0vCE=
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
